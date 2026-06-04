@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "data-pipeline-model-serving",
+      "title": "Data Pipeline & Model Serving with FastAPI",
+      "description": "Build a data pipeline, train a scikit-learn model, and serve predictions via FastAPI.",
+      "path": "assignments/data-pipeline-model-serving",
+      "dueDate": "2026-07-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
